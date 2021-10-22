@@ -306,12 +306,12 @@
         <repository>
             <id>ibm-ssi</id>
             <name>IBM SSI Releases Repository</name>
-            <url>https://repo-ssi-artifacts.bkamt-test-f9ec07aa8707c235e122cc792282dee3-0000.eu-de.containers.appdomain.cloud/repository/maven-releases/</url>
+            <url></url>
         </repository>
         <snapshotRepository>
             <id>ibm-ssi</id>
             <name>IBM SSI Snapshots Repository</name>
-            <url>https://repo-ssi-artifacts.bkamt-test-f9ec07aa8707c235e122cc792282dee3-0000.eu-de.containers.appdomain.cloud/repository/maven-snapshots/</url>
+            <url></url>
         </snapshotRepository>
     </distributionManagement>
 </project>
