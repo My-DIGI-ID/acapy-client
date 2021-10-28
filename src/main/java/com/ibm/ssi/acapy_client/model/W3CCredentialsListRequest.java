@@ -46,7 +46,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   W3CCredentialsListRequest.JSON_PROPERTY_TAG_QUERY,
   W3CCredentialsListRequest.JSON_PROPERTY_TYPES
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class W3CCredentialsListRequest {
   public static final String JSON_PROPERTY_CONTEXTS = "contexts";
   private List<String> contexts = null;

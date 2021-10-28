@@ -42,7 +42,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyPrimaryProof.JSON_PROPERTY_EQ_PROOF,
   IndyPrimaryProof.JSON_PROPERTY_GE_PROOFS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyPrimaryProof {
   public static final String JSON_PROPERTY_EQ_PROOF = "eq_proof";
   private JsonNullable<IndyEQProof> eqProof = JsonNullable.<IndyEQProof>undefined();

@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   RevokeRequest.JSON_PROPERTY_PUBLISH,
   RevokeRequest.JSON_PROPERTY_REV_REG_ID
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class RevokeRequest {
   public static final String JSON_PROPERTY_CRED_EX_ID = "cred_ex_id";
   private String credExId;

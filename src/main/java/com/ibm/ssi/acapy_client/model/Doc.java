@@ -36,7 +36,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   Doc.JSON_PROPERTY_CREDENTIAL,
   Doc.JSON_PROPERTY_OPTIONS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class Doc {
   public static final String JSON_PROPERTY_CREDENTIAL = "credential";
   private Object credential;

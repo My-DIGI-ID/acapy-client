@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Oct 11 17:08:20 CEST 2021
-acapy-client-0.6.0-javadoc.jar>=
-acapy-client-0.6.0-tests.jar>=
-acapy-client-0.6.0-sources.jar>=
-acapy-client-0.6.0.jar>=
-acapy-client-0.6.0.pom>=

@@ -39,7 +39,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   V20CredExRecordDetail.JSON_PROPERTY_INDY,
   V20CredExRecordDetail.JSON_PROPERTY_LD_PROOF
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class V20CredExRecordDetail {
   public static final String JSON_PROPERTY_CRED_EX_RECORD = "cred_ex_record";
   private V20CredExRecord credExRecord;

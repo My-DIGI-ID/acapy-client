@@ -35,7 +35,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   EndpointsResult.JSON_PROPERTY_MY_ENDPOINT,
   EndpointsResult.JSON_PROPERTY_THEIR_ENDPOINT
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class EndpointsResult {
   public static final String JSON_PROPERTY_MY_ENDPOINT = "my_endpoint";
   private String myEndpoint;

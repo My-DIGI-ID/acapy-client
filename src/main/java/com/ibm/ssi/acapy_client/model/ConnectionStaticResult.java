@@ -40,7 +40,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   ConnectionStaticResult.JSON_PROPERTY_THEIR_DID,
   ConnectionStaticResult.JSON_PROPERTY_THEIR_VERKEY
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class ConnectionStaticResult {
   public static final String JSON_PROPERTY_MV_VERKEY = "mv_verkey";
   private String mvVerkey;

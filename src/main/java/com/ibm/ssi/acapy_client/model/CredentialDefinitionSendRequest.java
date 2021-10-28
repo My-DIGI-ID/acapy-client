@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   CredentialDefinitionSendRequest.JSON_PROPERTY_SUPPORT_REVOCATION,
   CredentialDefinitionSendRequest.JSON_PROPERTY_TAG
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class CredentialDefinitionSendRequest {
   public static final String JSON_PROPERTY_REVOCATION_REGISTRY_SIZE = "revocation_registry_size";
   private Integer revocationRegistrySize;

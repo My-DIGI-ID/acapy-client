@@ -35,7 +35,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   TransactionJobs.JSON_PROPERTY_TRANSACTION_MY_JOB,
   TransactionJobs.JSON_PROPERTY_TRANSACTION_THEIR_JOB
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class TransactionJobs {
   /**
    * My transaction related job

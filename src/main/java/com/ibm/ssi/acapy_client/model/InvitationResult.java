@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   InvitationResult.JSON_PROPERTY_INVITATION,
   InvitationResult.JSON_PROPERTY_INVITATION_URL
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class InvitationResult {
   public static final String JSON_PROPERTY_CONNECTION_ID = "connection_id";
   private String connectionId;

@@ -34,7 +34,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
 @JsonPropertyOrder({
   V10CredentialStoreRequest.JSON_PROPERTY_CREDENTIAL_ID
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class V10CredentialStoreRequest {
   public static final String JSON_PROPERTY_CREDENTIAL_ID = "credential_id";
   private String credentialId;

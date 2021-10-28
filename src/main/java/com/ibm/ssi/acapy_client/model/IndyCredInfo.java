@@ -45,7 +45,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyCredInfo.JSON_PROPERTY_REV_REG_ID,
   IndyCredInfo.JSON_PROPERTY_SCHEMA_ID
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyCredInfo {
   public static final String JSON_PROPERTY_ATTRS = "attrs";
   private Map<String, String> attrs = null;

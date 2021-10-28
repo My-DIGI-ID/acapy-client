@@ -36,7 +36,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
 @JsonPropertyOrder({
   SchemasCreatedResult.JSON_PROPERTY_SCHEMA_IDS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class SchemasCreatedResult {
   public static final String JSON_PROPERTY_SCHEMA_IDS = "schema_ids";
   private List<String> schemaIds = null;

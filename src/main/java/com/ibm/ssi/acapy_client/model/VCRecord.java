@@ -47,7 +47,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   VCRecord.JSON_PROPERTY_SCHEMA_IDS,
   VCRecord.JSON_PROPERTY_SUBJECT_IDS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class VCRecord {
   public static final String JSON_PROPERTY_CONTEXTS = "contexts";
   private List<String> contexts = null;

@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   TxnOrRevRegResult.JSON_PROPERTY_SENT,
   TxnOrRevRegResult.JSON_PROPERTY_TXN
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class TxnOrRevRegResult {
   public static final String JSON_PROPERTY_SENT = "sent";
   private RevRegResult sent;

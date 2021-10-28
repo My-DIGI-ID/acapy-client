@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   V20CredBoundOfferRequest.JSON_PROPERTY_COUNTER_PREVIEW,
   V20CredBoundOfferRequest.JSON_PROPERTY_FILTER
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class V20CredBoundOfferRequest {
   public static final String JSON_PROPERTY_COUNTER_PREVIEW = "counter_preview";
   private V20CredPreview counterPreview;
