@@ -39,7 +39,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyProofProof.JSON_PROPERTY_AGGREGATED_PROOF,
   IndyProofProof.JSON_PROPERTY_PROOFS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyProofProof {
   public static final String JSON_PROPERTY_AGGREGATED_PROOF = "aggregated_proof";
   private IndyProofProofAggregatedProof aggregatedProof;

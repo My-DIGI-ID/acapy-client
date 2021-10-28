@@ -40,7 +40,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyCredPrecis.JSON_PROPERTY_INTERVAL,
   IndyCredPrecis.JSON_PROPERTY_PRESENTATION_REFERENTS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyCredPrecis {
   public static final String JSON_PROPERTY_CRED_INFO = "cred_info";
   private IndyCredInfo credInfo;

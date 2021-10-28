@@ -40,7 +40,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyProofIdentifier.JSON_PROPERTY_SCHEMA_ID,
   IndyProofIdentifier.JSON_PROPERTY_TIMESTAMP
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyProofIdentifier {
   public static final String JSON_PROPERTY_CRED_DEF_ID = "cred_def_id";
   private String credDefId;

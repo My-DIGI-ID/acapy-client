@@ -44,7 +44,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   V20CredRequestFree.JSON_PROPERTY_HOLDER_DID,
   V20CredRequestFree.JSON_PROPERTY_TRACE
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class V20CredRequestFree {
   public static final String JSON_PROPERTY_AUTO_REMOVE = "auto_remove";
   private Boolean autoRemove;

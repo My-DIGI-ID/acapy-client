@@ -41,7 +41,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   Schema.JSON_PROPERTY_VER,
   Schema.JSON_PROPERTY_VERSION
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class Schema {
   public static final String JSON_PROPERTY_ATTR_NAMES = "attrNames";
   private List<String> attrNames = null;

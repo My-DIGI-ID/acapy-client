@@ -44,7 +44,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   CredDefValueRevocation.JSON_PROPERTY_U,
   CredDefValueRevocation.JSON_PROPERTY_Y
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class CredDefValueRevocation {
   public static final String JSON_PROPERTY_G = "g";
   private String g;

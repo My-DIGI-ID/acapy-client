@@ -34,7 +34,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
 @JsonPropertyOrder({
   AttachDecoratorDataJWSHeader.JSON_PROPERTY_KID
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class AttachDecoratorDataJWSHeader {
   public static final String JSON_PROPERTY_KID = "kid";
   private String kid;

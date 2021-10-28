@@ -44,7 +44,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   InputDescriptors.JSON_PROPERTY_PURPOSE,
   InputDescriptors.JSON_PROPERTY_SCHEMA
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class InputDescriptors {
   public static final String JSON_PROPERTY_CONSTRAINTS = "constraints";
   private Constraints constraints;

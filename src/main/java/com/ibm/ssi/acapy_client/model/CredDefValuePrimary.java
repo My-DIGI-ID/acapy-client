@@ -39,7 +39,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   CredDefValuePrimary.JSON_PROPERTY_S,
   CredDefValuePrimary.JSON_PROPERTY_Z
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class CredDefValuePrimary {
   public static final String JSON_PROPERTY_N = "n";
   private String n;

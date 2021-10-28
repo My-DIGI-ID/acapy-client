@@ -38,7 +38,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyCredRequest.JSON_PROPERTY_NONCE,
   IndyCredRequest.JSON_PROPERTY_PROVER_DID
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyCredRequest {
   public static final String JSON_PROPERTY_BLINDED_MS = "blinded_ms";
   private Object blindedMs;

@@ -42,7 +42,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyPresSpec.JSON_PROPERTY_SELF_ATTESTED_ATTRIBUTES,
   IndyPresSpec.JSON_PROPERTY_TRACE
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyPresSpec {
   public static final String JSON_PROPERTY_REQUESTED_ATTRIBUTES = "requested_attributes";
   private Map<String, IndyRequestedCredsRequestedAttr> requestedAttributes = new HashMap<>();

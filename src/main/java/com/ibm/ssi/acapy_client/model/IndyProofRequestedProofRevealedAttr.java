@@ -36,7 +36,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyProofRequestedProofRevealedAttr.JSON_PROPERTY_RAW,
   IndyProofRequestedProofRevealedAttr.JSON_PROPERTY_SUB_PROOF_INDEX
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyProofRequestedProofRevealedAttr {
   public static final String JSON_PROPERTY_ENCODED = "encoded";
   private String encoded;

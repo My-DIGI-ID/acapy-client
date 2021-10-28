@@ -36,7 +36,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   DIDEndpointWithType.JSON_PROPERTY_ENDPOINT,
   DIDEndpointWithType.JSON_PROPERTY_ENDPOINT_TYPE
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class DIDEndpointWithType {
   public static final String JSON_PROPERTY_DID = "did";
   private String did;

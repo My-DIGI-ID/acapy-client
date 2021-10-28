@@ -47,7 +47,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   IndyProofRequestedProof.JSON_PROPERTY_SELF_ATTESTED_ATTRS,
   IndyProofRequestedProof.JSON_PROPERTY_UNREVEALED_ATTRS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class IndyProofRequestedProof {
   public static final String JSON_PROPERTY_PREDICATES = "predicates";
   private Map<String, IndyProofRequestedProofPredicate> predicates = null;

@@ -37,7 +37,7 @@ import com.ibm.ssi.acapy_client.invoker.JSON;
   DIFPresSpec.JSON_PROPERTY_PRESENTATION_DEFINITION,
   DIFPresSpec.JSON_PROPERTY_RECORD_IDS
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-11T17:04:23.656276+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-10-28T08:24:27.640452+02:00[Europe/Berlin]")
 public class DIFPresSpec {
   public static final String JSON_PROPERTY_ISSUER_ID = "issuer_id";
   private String issuerId;
