@@ -1,8 +1,8 @@
 lazy val root = (project in file(".")).
   settings(
-    organization := "com.ibm.ssi",
+    organization := "com.my_digi_id",
     name := "acapy-client",
-    version := "0.6.0",
+    version := "0.7.0",
     scalaVersion := "2.11.4",
     scalacOptions ++= Seq("-feature"),
     javacOptions in compile ++= Seq("-Xlint:deprecation"),
