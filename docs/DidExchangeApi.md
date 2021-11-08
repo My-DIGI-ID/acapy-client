@@ -21,12 +21,12 @@ Accept a stored connection invitation
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.DidExchangeApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.DidExchangeApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -95,12 +95,12 @@ Accept a stored connection request
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.DidExchangeApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.DidExchangeApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -169,12 +169,12 @@ Create and send a request against public DID&#39;s implicit invitation
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.DidExchangeApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.DidExchangeApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -247,12 +247,12 @@ Receive request against public DID&#39;s implicit invitation
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.DidExchangeApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.DidExchangeApi;
 
 public class Example {
     public static void main(String[] args) {

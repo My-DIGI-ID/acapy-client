@@ -25,12 +25,12 @@ Remove credential from wallet by id
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -95,12 +95,12 @@ Fetch credential from wallet by id
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -165,12 +165,12 @@ Get attribute MIME types from wallet
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -235,12 +235,12 @@ Query credential revocation status by id
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -309,12 +309,12 @@ Remove W3C credential from wallet by id
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -379,12 +379,12 @@ Fetch W3C credential from wallet by id
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -449,12 +449,12 @@ Fetch credentials from wallet
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -523,12 +523,12 @@ Fetch W3C credentials from wallet
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.CredentialsApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.CredentialsApi;
 
 public class Example {
     public static void main(String[] args) {
