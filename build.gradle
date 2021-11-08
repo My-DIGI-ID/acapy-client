@@ -1,7 +1,7 @@
 apply plugin: 'idea'
 apply plugin: 'eclipse'
 
-group = 'com.ibm.ssi'
+group = 'com.my_digi_id'
 version = '0.7.0'
 
 buildscript {

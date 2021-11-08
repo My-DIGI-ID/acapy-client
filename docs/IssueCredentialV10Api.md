@@ -30,12 +30,12 @@ Create a credential offer, independent of any proposal or connection
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -100,12 +100,12 @@ Send holder a credential, automating entire flow
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -170,12 +170,12 @@ Remove an existing credential exchange record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -240,12 +240,12 @@ Fetch a single credential exchange record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -310,12 +310,12 @@ Send holder a credential
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -382,12 +382,12 @@ Send a problem report for credential exchange
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -454,12 +454,12 @@ Send holder a credential offer in reference to a proposal with preview
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -526,12 +526,12 @@ Send issuer a credential request
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -596,12 +596,12 @@ Store a received credential
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -669,12 +669,12 @@ Fetch all credential exchange records
 ```java
 import java.util.UUID;
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -745,12 +745,12 @@ Send holder a credential offer, independent of any proposal
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -815,12 +815,12 @@ Send holder a credential, automating entire flow
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -885,12 +885,12 @@ Send issuer a credential proposal
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.IssueCredentialV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.IssueCredentialV10Api;
 
 public class Example {
     public static void main(String[] args) {

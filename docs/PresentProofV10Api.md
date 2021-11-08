@@ -28,12 +28,12 @@ Creates a presentation request not bound to any proposal or connection
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -99,12 +99,12 @@ Fetch all present-proof exchange records
 ```java
 import java.util.UUID;
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -175,12 +175,12 @@ Fetch credentials for a presentation request from wallet
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -253,12 +253,12 @@ Remove an existing presentation exchange record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -323,12 +323,12 @@ Fetch a single presentation exchange record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -393,12 +393,12 @@ Send a problem report for presentation exchange
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -465,12 +465,12 @@ Sends a proof presentation
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -537,12 +537,12 @@ Sends a presentation request in reference to a proposal
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -609,12 +609,12 @@ Verify a received presentation
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -679,12 +679,12 @@ Sends a presentation proposal
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {
@@ -749,12 +749,12 @@ Sends a free presentation request not bound to any proposal
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.PresentProofV10Api;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.PresentProofV10Api;
 
 public class Example {
     public static void main(String[] args) {

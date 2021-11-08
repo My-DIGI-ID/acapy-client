@@ -27,12 +27,12 @@ For Author to resend a particular transaction request
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -97,12 +97,12 @@ Set Endorser Info
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -171,12 +171,12 @@ Set transaction jobs
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -243,12 +243,12 @@ For author to send a transaction request
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -317,12 +317,12 @@ Query transactions
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -383,12 +383,12 @@ For Author to cancel a particular transaction request
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -453,12 +453,12 @@ For Endorser to endorse a particular transaction record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -523,12 +523,12 @@ Fetch a single transaction record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -593,12 +593,12 @@ For Endorser to refuse a particular transaction record
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -663,12 +663,12 @@ For Author / Endorser to write an endorsed transaction to the ledger
 
 ```java
 // Import classes:
-import com.ibm.ssi.acapy_client.invoker.ApiClient;
-import com.ibm.ssi.acapy_client.invoker.ApiException;
-import com.ibm.ssi.acapy_client.invoker.Configuration;
-import com.ibm.ssi.acapy_client.invoker.auth.*;
-import com.ibm.ssi.acapy_client.invoker.model.*;
-import com.ibm.ssi.acapy_client.api.EndorseTransactionApi;
+import com.my_digi_id.acapy_client.invoker.ApiClient;
+import com.my_digi_id.acapy_client.invoker.ApiException;
+import com.my_digi_id.acapy_client.invoker.Configuration;
+import com.my_digi_id.acapy_client.invoker.auth.*;
+import com.my_digi_id.acapy_client.invoker.model.*;
+import com.my_digi_id.acapy_client.api.EndorseTransactionApi;
 
 public class Example {
     public static void main(String[] args) {
