@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.my_digi_id</groupId>
+    <groupId>io.github.my-digi-id</groupId>
     <artifactId>acapy-client</artifactId>
     <packaging>jar</packaging>
     <name>acapy-client</name>
@@ -98,7 +98,8 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration></configuration>
+                <configuration>
+                </configuration>
             </plugin>
 
             <plugin>
@@ -137,14 +138,14 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
+                        <source>1.8</source>
+                        <target>1.8</target>
                     <fork>true</fork>
                     <meminitial>128m</meminitial>
                     <maxmem>512m</maxmem>
                     <compilerArgs>
                         <arg>-Xlint:all</arg>
-                        <arg>-J-Xss4m</arg> <!-- Compiling the generated JSON.java file may require larger stack size. -->
+                        <arg>-J-Xss4m</arg><!-- Compiling the generated JSON.java file may require larger stack size. -->
                     </compilerArgs>
                 </configuration>
             </plugin>

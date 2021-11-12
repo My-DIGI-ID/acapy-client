@@ -1,3 +1,3 @@
-<manifest package="com.my_digi_id.acapy_client.invoker" xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest package="io.github.my_digi_id.acapy_client.invoker" xmlns:android="http://schemas.android.com/apk/res/android">
     <application />
 </manifest>

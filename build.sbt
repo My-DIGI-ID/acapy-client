@@ -1,6 +1,6 @@
 lazy val root = (project in file(".")).
   settings(
-    organization := "com.my_digi_id",
+    organization := "io.github.my-digi-id",
     name := "acapy-client",
     version := "0.7.0",
     scalaVersion := "2.11.4",
