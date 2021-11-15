@@ -29,12 +29,12 @@ Clear default mediator
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -95,12 +95,12 @@ Get default mediator
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -162,12 +162,12 @@ Retrieve keylists by connection or role
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -235,12 +235,12 @@ Send keylist query to mediator
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -312,12 +312,12 @@ Send keylist update to mediator
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -385,12 +385,12 @@ Set default mediator
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -455,12 +455,12 @@ Request mediation from connection
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -528,12 +528,12 @@ Query mediation requests, returns list of all mediation records
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -605,12 +605,12 @@ Delete mediation request by ID
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -676,12 +676,12 @@ Deny a stored mediation request
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -749,12 +749,12 @@ Retrieve mediation request record
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -820,12 +820,12 @@ Grant received mediation
 ```java
 import java.util.UUID;
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.MediationApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.MediationApi;
 
 public class Example {
     public static void main(String[] args) {

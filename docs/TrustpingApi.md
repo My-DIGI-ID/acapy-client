@@ -18,12 +18,12 @@ Send a trust ping to a connection
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.TrustpingApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.TrustpingApi;
 
 public class Example {
     public static void main(String[] args) {

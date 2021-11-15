@@ -25,12 +25,12 @@ Query supported features
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -95,12 +95,12 @@ Fetch the list of loaded plugins
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -161,12 +161,12 @@ Shut down server
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -227,12 +227,12 @@ Fetch the server configuration
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -293,12 +293,12 @@ Fetch the server status
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -359,12 +359,12 @@ Liveliness check
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -425,12 +425,12 @@ Readiness check
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -491,12 +491,12 @@ Reset statistics
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ServerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ServerApi;
 
 public class Example {
     public static void main(String[] args) {

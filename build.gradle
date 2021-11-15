@@ -1,7 +1,7 @@
 apply plugin: 'idea'
 apply plugin: 'eclipse'
 
-group = 'com.my_digi_id'
+group = 'io.github.my-digi-id'
 version = '0.7.0'
 
 buildscript {

@@ -24,12 +24,12 @@ Get the endpoint for a DID from the ledger.
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -96,12 +96,12 @@ Get the verkey for a DID from the ledger.
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -166,12 +166,12 @@ Get the role from the NYM registration of a public DID.
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -236,12 +236,12 @@ Send a NYM registration to the ledger.
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -312,12 +312,12 @@ Rotate key pair for public DID.
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -378,12 +378,12 @@ Accept the transaction author agreement
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -448,12 +448,12 @@ Fetch the current transaction author agreement, if any
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.LedgerApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.LedgerApi;
 
 public class Example {
     public static void main(String[] args) {

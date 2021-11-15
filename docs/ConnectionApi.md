@@ -29,12 +29,12 @@ Accept a stored connection invitation
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -105,12 +105,12 @@ Accept a stored connection request
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -177,12 +177,12 @@ Remove an existing connection record
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -247,12 +247,12 @@ Fetch connection remote endpoint
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -317,12 +317,12 @@ Assign another connection as the inbound connection
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -389,12 +389,12 @@ Fetch a single connection record
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -459,12 +459,12 @@ Fetch connection metadata
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -531,12 +531,12 @@ Set connection metadata
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -603,12 +603,12 @@ Create a new connection invitation
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -681,12 +681,12 @@ Create a new static connection
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -751,12 +751,12 @@ Query agent-to-agent connections
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
@@ -833,12 +833,12 @@ Receive a new connection invitation
 
 ```java
 // Import classes:
-import com.my_digi_id.acapy_client.invoker.ApiClient;
-import com.my_digi_id.acapy_client.invoker.ApiException;
-import com.my_digi_id.acapy_client.invoker.Configuration;
-import com.my_digi_id.acapy_client.invoker.auth.*;
-import com.my_digi_id.acapy_client.invoker.model.*;
-import com.my_digi_id.acapy_client.api.ConnectionApi;
+import io.github.my_digi_id.acapy_client.invoker.ApiClient;
+import io.github.my_digi_id.acapy_client.invoker.ApiException;
+import io.github.my_digi_id.acapy_client.invoker.Configuration;
+import io.github.my_digi_id.acapy_client.invoker.auth.*;
+import io.github.my_digi_id.acapy_client.invoker.model.*;
+import io.github.my_digi_id.acapy_client.api.ConnectionApi;
 
 public class Example {
     public static void main(String[] args) {
